@@ -1,2 +1,2 @@
 # Python-Webscraping
-Analísis de datos de ventas y ganancias para Tesla y Gamestop
+Uso de WebScraping para obtener datos estrategicos de grandes empresas como Amazon, Tesla, etc. 
